@@ -15,8 +15,7 @@ namespace CorpApp
             // Combine the directory and filename to get the full path
             string outputPath = Path.Combine(outputDirectory, outputFile);
             //Runas
-            // Username: Administrator
-            // Password: Asa31904#!
+
             try
             {
                 // Get the list of currently running processes
